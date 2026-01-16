@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: heasrthstone
+
+
+app:
+  hearthstone_id: ${HEARTHSTONE_ID}
+  hearthstone_secret: ${HEARTHSTONE_SECRET}
+  langchain_key: ${LANGCHAIN_KEY}
